@@ -1,0 +1,12 @@
+using System;
+namespace Lectures
+{
+	// Таким образом определяется класс.
+	class Program
+	{
+		static void Main()
+		{
+		Console.WriteLine("Hello, world!");
+       		 }
+	}
+}
